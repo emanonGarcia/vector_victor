@@ -22,4 +22,4 @@ $ nosetests
 ```
 
 ## Author
-* **Luis Garcia** -[emanonGarcia](https://github.com/emanonGarcia)
+* **Luis Garcia** - *Initial work* -[emanonGarcia](https://github.com/emanonGarcia)
