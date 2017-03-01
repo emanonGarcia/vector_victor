@@ -1,5 +1,5 @@
 # Vector Victor
-vector_victor.py is a program that does basic linear algebra on vectors of length n using only built-in python funcitons. No imports
+vector_victor.py is a program that does basic linear algebra on vectors of length n using only built-in python funcitons. No imports. vector_victor_epic.py is a similar to vector_victor.py implemented as a class 
 
 ## Getting Started
 After downloading and unzipped, run script from the command line.
