@@ -15,7 +15,7 @@ Nose for testing
 pip3 install nose
 ```
 
-##Running the tests
+## Running the tests
 from the command line while in the same directory as vector_victor.py and vector_victory_tests.py
 ```
 $ nosetests
